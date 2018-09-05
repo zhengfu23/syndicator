@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  start_time: 2018-09-05 12:04:25
+  start_timezone: MyString
+  end_time: 2018-09-05 12:04:25
+  end_timezone: MyString
+  currency: MyString
+
+two:
+  name: MyString
+  start_time: 2018-09-05 12:04:25
+  start_timezone: MyString
+  end_time: 2018-09-05 12:04:25
+  end_timezone: MyString
+  currency: MyString
