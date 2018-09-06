@@ -1,0 +1,2 @@
+module BrownPaperTicketsHelper
+end
