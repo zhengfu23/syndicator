@@ -62,6 +62,10 @@ end
 gem 'eventbrite_sdk'
 # Eventful.com API
 gem 'eventfulapi'
+# Rest-client for brown paper tickets and piactic that has no ruby sdk
+gem 'rest-client', '~> 2.0', '>= 2.0.2'
+# Sidekiq gem for scheduled worker to syndicator events
+gem 'sidekiq'
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
