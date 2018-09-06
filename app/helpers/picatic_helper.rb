@@ -1,0 +1,2 @@
+module PicaticHelper
+end
