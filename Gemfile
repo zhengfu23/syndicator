@@ -61,7 +61,7 @@ end
 # Eventbrite Ruby SDK gem
 gem 'eventbrite_sdk'
 # Eventful.com API
-gem 'eventfulapi'
+gem 'eventful_api'
 # Rest-client for brown paper tickets and piactic that has no ruby sdk
 gem 'rest-client', '~> 2.0', '>= 2.0.2'
 # Sidekiq gem for scheduled worker to syndicator events
